@@ -1,7 +1,6 @@
 // teste3.cpp : Este arquivo contém a função 'main'. A execução do programa começa e termina ali.
 //
 
- //CUSTO: 1(N+1) + 9
 // O(N)
 
 
